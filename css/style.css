@@ -125,11 +125,33 @@ button{
     -webkit-box-shadow: 4px 22px 27px -22px rgba(14,74,184,1);
     -moz-box-shadow: 4px 22px 27px -22px rgba(14,74,184,1);
     box-shadow: 4px 22px 27px -22px rgba(14,74,184,1);
+    transition: all 250ms ease;
 
 }
+
+.button-proceed:hover{
+    transform:translate(-1px, -1px) ;
+
+}
+
+.button-proceed:active{
+    transform:translate(1px, 1px) ;
+
+}
+
 
 .button-cancel{
     color: var(--Desaturated-blue);
     display: inline-block;
     height: 55px;
+}
+
+.button-cancel{
+    transform:translate(-1px, -1px) ;
+
+}
+
+.button-cancel:active{
+    transform:translate(1px, 1px) ;
+
 }
