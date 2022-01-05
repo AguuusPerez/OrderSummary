@@ -10,7 +10,7 @@ Users should be able to:
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Links 
-- 📌 Solution URL: [Blogr-page](https://gemmaceous-compasse.000webhostapp.com/Order-summary/index.html#)
+- 📌 Solution URL: [Order Summary](https://gemmaceous-compasse.000webhostapp.com/Order-summary/index.html#)
 
 ## My process
 
